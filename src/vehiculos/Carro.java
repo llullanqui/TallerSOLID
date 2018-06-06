@@ -1,9 +1,11 @@
-package DIPviolation;
+package vehiculos;
 
+import DIPviolation.AsientoParaCarro;
+import DIPviolation.LlantaParaCarro;
 import LSPviolation.Radio;
 
 public class Carro implements Vehiculo{
-	//Esta clase va relacionada con el OCPviolation
+	//Esta clase va relacionada con varias violaciones de principios
 	
 	private LlantaParaCarro llanta1;
 	private LlantaParaCarro llanta2;

@@ -1,7 +1,7 @@
 package OCPviolation;
 
-import DIPviolation.Bicicleta;
-import DIPviolation.Carro;
+import vehiculos.Bicicleta;
+import vehiculos.Carro;
 
 public class testeadorDeGiros {
 	

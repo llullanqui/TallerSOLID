@@ -1,6 +1,6 @@
 package LSPviolation;
 
-import DIPviolation.Vehiculo;
+import vehiculos.Vehiculo;
 
 public class testeadorDeAdicionales {
 	

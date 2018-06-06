@@ -1,6 +1,8 @@
-package DIPviolation;
+package vehiculos;
+
 
 public interface Vehiculo {
 	
 	public void escuchar();
+	
 }

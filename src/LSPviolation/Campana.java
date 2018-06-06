@@ -1,4 +1,4 @@
-package DIPviolation;
+package LSPviolation;
 
 public class Campana {
 

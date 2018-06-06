@@ -1,7 +1,11 @@
-package DIPviolation;
+package vehiculos;
+
+import DIPviolation.AsientoParaBicicleta;
+import DIPviolation.LlantaParaBicicleta;
+import LSPviolation.Campana;
 
 public class Bicicleta implements Vehiculo{
-	//Esta clase va relacionada con el OCPviolation
+	//Esta clase va relacionada con varias violaciones de principios
 	
 	private LlantaParaBicicleta llanta1;
 	private LlantaParaBicicleta llanta2;
